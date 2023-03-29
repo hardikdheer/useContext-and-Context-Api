@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+.App>h1{
+  text-align: left;
+}
+
+.header{
+  background-color: blueviolet;
+  color: white;
+  align-items: center;
+}
+
+.compa{
+  width: 100%;
+  background-color: aqua;
+  text-align: left;
+}
+.compb{
+  width: 100%;
+  background-color: red;
+}
+.compc{
+  width: 100%;
+  background-color: pink;
+}
